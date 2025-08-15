@@ -49,4 +49,4 @@ Compiler Commands for CA65 (which I used) https://cc65.github.io/
 
 # Fun Fact
 
-The NES’s PPU renders backgrounds and sprites separately, so the center dashed line is drawn in the background layer, while paddles and ball are sprites.
+The NES’s PPU renders backgrounds and sprites separately, so the center dashed line is drawn in the background layer, while paddles and ball are sprites. Quick Side Note the current AI used is not going to let you win ;)
