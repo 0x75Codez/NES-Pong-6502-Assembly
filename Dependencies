@@ -1,0 +1,7 @@
+### Requirements
+- **ca65 / ld65** from [cc65 toolchain](https://cc65.github.io/)
+- **NESASM** (optional—instructions can differ)
+- NES emulator: [Mesen](https://www.mesen.ca/), FCEUX, etc.
+
+
+No Real Dependencies needed just a Text Editor, Compiler and Emulator :)
